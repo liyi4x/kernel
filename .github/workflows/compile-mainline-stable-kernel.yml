@@ -18,6 +18,7 @@ on:
         options:
           - unifreq
           - ophub
+          - liyi4x
       kernel_version:
         description: "Select kernel version"
         required: false
